@@ -7,5 +7,5 @@ object Constants {
     const val CAMPUS_LNG = 110.320658
 
     // Radius Toleransi (Meter)
-    const val RADIUS_METERS = 50.0
+    const val RADIUS_METERS = 300.0
 }
