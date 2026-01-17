@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971209526012",
+    "project_id": "attengo-d0a0d",
+    "storage_bucket": "attengo-d0a0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971209526012:android:d0488c18f88ebae2c8a579",
+        "android_client_info": {
+          "package_name": "com.example.projekakhir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNgbPPE-9JlLYfR6_d1sZPtz1eIZS-8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
